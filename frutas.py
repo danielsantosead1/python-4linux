@@ -25,7 +25,6 @@ for fruta in frutas:
     print(soma)
 
 
-
 # frutas2 = []
 # for fruta in frutas:
 #     fruta['preco'] = fruta['preco'] + 1
