@@ -1,3 +1,5 @@
-maca
-maca
-banana
+
+
+{'preco': 2.0, 'fruta': 'banana', 'qtd': 10}
+{'preco': 5, 'fruta': 'laranja', 'qtd': 20}
+{'preco': 4.5, 'fruta': 'pera', 'qtd': 2}

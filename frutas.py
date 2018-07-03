@@ -18,15 +18,15 @@ frutas  =  [
     {'fruta': 'pera', 'preco':4.5, 'qtd':2}
 ]
 
-soma = 0
+# soma = 0
 
-for fruta in frutas:
-    soma = fruta['preco'] * fruta['qtd']
-    print(soma)
+# for fruta in frutas:
+#     soma = fruta['preco'] * fruta['qtd']
+#     print(soma)
 
 
 # frutas2 = []
 # for fruta in frutas:
 #     fruta['preco'] = fruta['preco'] + 1
 #     frutas2.append(fruta)
-# print(frutas2)
+# print(frutas2)frutas.py
