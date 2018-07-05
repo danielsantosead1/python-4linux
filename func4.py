@@ -6,3 +6,5 @@ def sortear_nomes(*args):
     print(choice(args))
 
 sortear_nomes('daniel', 'rayna', 'pedro', 'paulo', 'joao', 'maria', 'jose')
+
+

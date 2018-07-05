@@ -11,11 +11,13 @@
 
 # boas_vindas(nome='daniel', sobrenome='santos')
 
+########################################################
 def boas_vindas(**kargs):
     a = kargs['preco']
     b = kargs['qtd']
     c = a * b
-    
     print('o valor total eh {}'.format(c))
 
 boas_vindas(fruta='laranja', preco=2, qtd=5)
+########################################################
+
