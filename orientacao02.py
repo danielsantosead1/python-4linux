@@ -32,7 +32,6 @@ dog1.andar()
 dog1.andar()
 dog1.andar()
 
-
 dog1.dormir()
 
 dog1.andar()

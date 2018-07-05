@@ -28,6 +28,7 @@ class Carro():
                             print('adeus')
                 else:
                     exit()
+##fim da classe
             
     def frear(self):
         print('freando...')

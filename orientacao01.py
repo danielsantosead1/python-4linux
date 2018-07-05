@@ -21,7 +21,7 @@ class Dog():
         self.energia = 10
         print('domindo e recarregando')
 
-##fim da classe
+##fim da classe#
 
 
 dog1 = Dog('bilu', 2) #objeto
